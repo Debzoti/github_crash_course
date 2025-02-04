@@ -5,3 +5,6 @@ function name() {
     return "debzoti"
 }
 
+function age() {
+    return 188
+}
